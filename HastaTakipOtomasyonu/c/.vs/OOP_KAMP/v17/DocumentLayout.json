@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Said\\Desktop\\c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\said\\desktop\\c\\hastaneotomasyon\\doktorekleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\doktorekleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\said\\desktop\\c\\hastaneotomasyon\\doktorekleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\doktorekleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\said\\desktop\\c\\hastaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\said\\desktop\\c\\hastaneotomasyon\\class\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\class\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\said\\desktop\\c\\hastaneotomasyon\\hastarandevuformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\hastarandevuformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|C:\\Users\\Said\\Desktop\\c\\hastaneotomasyon\\hastarandevuformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\hastarandevuformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\said\\desktop\\c\\hastaneotomasyon\\class\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\class\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\said\\desktop\\c\\hastaneotomasyon\\class\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\class\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoktorEkleFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\DoktorEkleFormu.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\DoktorEkleFormu.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\DoktorEkleFormu.cs [Design]",
+              "RelativeToolTip": "HastaneOtomasyon\\DoktorEkleFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:33:51.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\Form1.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Form1.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\Form1.cs [Design]",
+              "RelativeToolTip": "HastaneOtomasyon\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:33:25.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoktorEkleFormu.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\DoktorEkleFormu.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\DoktorEkleFormu.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\DoktorEkleFormu.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\DoktorEkleFormu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:31:52.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\Class\\Doctor.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Class\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\Class\\Doctor.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Class\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:30:29.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\Class\\Appointment.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Class\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\Class\\Appointment.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Class\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:41:57.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HastaRandevuFormu.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\HastaRandevuFormu.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\HastaRandevuFormu.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\HastaRandevuFormu.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\HastaRandevuFormu.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwIEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:21:56.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\Class\\Specialization.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Class\\Specialization.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\Class\\Specialization.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Class\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:22:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HastaRandevuFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\HastaRandevuFormu.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\HastaRandevuFormu.cs",
+              "ToolTip": "C:\\Users\\Said\\Desktop\\c\\HastaneOtomasyon\\HastaRandevuFormu.cs [Design]",
+              "RelativeToolTip": "HastaneOtomasyon\\HastaRandevuFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:21:57.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

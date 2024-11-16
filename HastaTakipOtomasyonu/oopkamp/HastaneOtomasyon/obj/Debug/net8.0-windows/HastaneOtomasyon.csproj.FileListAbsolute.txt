@@ -1,0 +1,52 @@
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.exe
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.deps.json
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.runtimeconfig.json
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.dll
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.pdb
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.DoktorEkleFormu.resources
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.Form1.resources
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.AssemblyInfo.cs
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.dll
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\refint\HastaneOtomasyon.dll
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.pdb
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.genruntimeconfig.cache
+C:\Users\ikbal.cinek\source\repos\OOP_KAMP\HastaneOtomasyon\obj\Debug\net8.0-windows\ref\HastaneOtomasyon.dll
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.exe
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.deps.json
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.dll
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\bin\Debug\net8.0-windows\HastaneOtomasyon.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.DoktorEkleFormu.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.Form1.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.HastaEkleFormu.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.HastaRandevuFormu.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.HemsireAtamaFormu.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.HemsireEkleFormu.resources
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.dll
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\refint\HastaneOtomasyon.dll
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Masaüstü\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\ref\HastaneOtomasyon.dll
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.DoktorEkleFormu.resources
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.Form1.resources
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.HastaEkleFormu.resources
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.HastaRandevuFormu.resources
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.HemsireAtamaFormu.resources
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.HemsireEkleFormu.resources
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.AssemblyInfo.cs
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.dll
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\refint\HastaneOtomasyon.dll
+C:\Users\Bilge Adam\Desktop\odev\Sınav\HastaneOtomasyon\obj\Debug\net8.0-windows\HastaneOtomasyon.pdb

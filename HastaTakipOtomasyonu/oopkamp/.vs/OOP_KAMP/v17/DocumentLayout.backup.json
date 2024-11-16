@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\staff\\iomuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\staff\\iomuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\nurses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\nurses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\staff\\inumune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\staff\\inumune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\staff\\ik\u0131r\u0131k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\staff\\ik\u0131r\u0131k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\staff\\iameliyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\staff\\iameliyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\\u0130nsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\\u0130nsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\doctortypes\\kbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\doctortypes\\kbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\classes\\doctortypes\\cocuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\classes\\doctortypes\\cocuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|c:\\users\\bilge adam\\desktop\\odev\\s\u0131nav\\hastaneotomasyon\\enumlar\\itemsenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26AD10-B46D-4C8F-9292-542442B11E8C}|HastaneOtomasyon\\HastaneOtomasyon.csproj|solutionrelative:hastaneotomasyon\\enumlar\\itemsenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 349,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u0130nsan.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\\u0130nsan.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\\u0130nsan.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\\u0130nsan.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\\u0130nsan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:36:57.97Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOmuz.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Staff\\IOmuz.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\Staff\\IOmuz.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Staff\\IOmuz.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\Staff\\IOmuz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:43:27.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nurses.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Nurses.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\Nurses.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Nurses.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\Nurses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:42:39.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INumune.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Staff\\INumune.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\Staff\\INumune.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Staff\\INumune.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\Staff\\INumune.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:41:57.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IK\u0131r\u0131k.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Staff\\IK\u0131r\u0131k.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\Staff\\IK\u0131r\u0131k.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Staff\\IK\u0131r\u0131k.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\Staff\\IK\u0131r\u0131k.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:41:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAmeliyat.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Staff\\IAmeliyat.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\Staff\\IAmeliyat.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Staff\\IAmeliyat.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\Staff\\IAmeliyat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:41:35.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KBB.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\DoctorTypes\\KBB.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\DoctorTypes\\KBB.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\DoctorTypes\\KBB.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\DoctorTypes\\KBB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:36:45.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cocuk.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\DoctorTypes\\Cocuk.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\DoctorTypes\\Cocuk.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\DoctorTypes\\Cocuk.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\DoctorTypes\\Cocuk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:35:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Program.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Program.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Program.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:26:24.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Form1.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Form1.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Form1.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:25:22.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Doctor.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Classes\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Classes\\Doctor.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Classes\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:24:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemsEnums.cs",
+              "DocumentMoniker": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Enumlar\\ItemsEnums.cs",
+              "RelativeDocumentMoniker": "HastaneOtomasyon\\Enumlar\\ItemsEnums.cs",
+              "ToolTip": "C:\\Users\\Bilge Adam\\Desktop\\odev\\S\u0131nav\\HastaneOtomasyon\\Enumlar\\ItemsEnums.cs",
+              "RelativeToolTip": "HastaneOtomasyon\\Enumlar\\ItemsEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:22:56.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
